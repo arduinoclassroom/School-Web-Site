@@ -1,4 +1,5 @@
 <?php
+/// update test
 $server = 'localhost';
 $user = 'root';
 $pass = '';
